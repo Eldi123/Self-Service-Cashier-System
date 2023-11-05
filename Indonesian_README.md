@@ -85,6 +85,6 @@ Fitur ini dijalankan menggunakan fungsi transaction_list. Diagram alur fitur ini
 
 ## Development
 
-Seperti yang telah dijelaskan sebelumnya bahwa program ini masih berbasis CLI sehingga untuk penggunaan komersial perlu dibangun kode untuk program GUI. Selain itu juga dapat dikembangkan fitur tambahan berupa unit input sehingga dapat dilakukan input yang lebih spesifik.
+Seperti yang telah dijelaskan sebelumnya bahwa program ini masih berbasis CLI sehingga untuk penggunaan komersial perlu dibangun kode untuk program GUI. Selain itu juga dapat dikembangkan fitur tambahan berupa satuan dari input sehingga dapat dilakukan input yang lebih spesifik.
 
 Atas dasar itulah saya terbuka menerima masukan untuk mengembangkan program ini. Saya sangat mengharapkan saran-saran yang dapat mengarahkan dan mengajarkan saya bagaimana mengembangkan program ini.
