@@ -58,7 +58,7 @@ This feature was created to delete all input that has been made so that you can 
 ![reset_transaction](https://github.com/Eldi123/Self-Service-Cashier-System/blob/main/Flowchart%20Self%20Service%20Cashier%20System/reset_transaction%20function.drawio.png)
 
 **5. Check Orders**
-In this feature, the error checking process is only based on whether there is an item name input that was not completed. This is because it will collide with the function in the add item and update item features, where these features automatically set the item price and item quantity input in the form of numbers. This is also reinforced by the simultaneous application of the Show transaction feature to several other features so that if an input error occurs it will also fail to display the transaction list.
+This feature is used to check whether there are input errors. In this feature, the error checking process is only based on whether there is an item name input that was not completed. This is because it will collide with the function in the add item and update item features, where these features automatically set the item price and item quantity input in the form of numbers. This is also reinforced by the simultaneous application of the Show transaction feature to several other features so that if an input error occurs it will also fail to display the transaction list.
 
 The Check orders feature is carried out using the check_order function. The following is a flowchart of the check_order function algorithm:
 
